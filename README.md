@@ -2,6 +2,9 @@
 
 [![Build Status](https://travis-ci.org/sipcapture/rtpbreakr.svg?branch=master)](https://travis-ci.org/sipcapture/rtpbreakr)
 
+### 说明
+从抓包文件中分离提取音频文件
+
 ### Requirements:
 
 * Compile:
